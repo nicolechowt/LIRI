@@ -1,0 +1,157 @@
+
+The last movie search result: 
+{
+  "title": "Titanic",
+  "year": "19 Dec 1997",
+  "imdbRating": "7.8",
+  "rottenTomatoes": "88%",
+  "country": "USA",
+  "language": "English, Swedish",
+  "plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+  "actors": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates"
+}
+The last song search result: 
+{
+  "artists": "Backstreet Boys",
+  "songName": "I Want It That Way",
+  "previewOfSong": "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=0d809a45a87942b89b1e1eac24f40fbf"
+}
+Tweet # 1 -"Here's another one."
+
+
+Tweet # 2 -"Just in case."
+
+
+Tweet # 3 -"OK LAST ONE FOR NOW.\n\nTweet 21."
+
+
+Tweet # 4 -"Two more.\n\nTweet 20."
+
+
+Tweet # 5 -"I don't like the acronym POTUS. It does not sound intelligent.\n\nTweet 19."
+
+
+Tweet # 6 -"Is this what our POTUS does all day?\nTweet 18."
+
+
+Tweet # 7 -"This feels like a game.\n\nTweet 17."
+
+
+Tweet # 8 -"Celebration.\n\nTweet 16."
+
+
+Tweet # 9 -"Food.\n\nTweet 15."
+
+
+Tweet # 10 -"I think it's punny. \n\nTweet 14."
+
+
+Tweet # 11 -"What do you think of my screen name?\n\nTweet 13."
+
+
+Tweet # 12 -"Goodbye, heatwave.\n\nTweet 12."
+
+
+Tweet # 13 -"Being forced to articulate my thoughts in 140 characters is a challenge.\n\nTweet 11."
+
+
+Tweet # 14 -"What should I eat for lunch?\n\nTweet 10."
+
+
+Tweet # 15 -"This is the most I have tweeted. Ever. Tweet 10"
+
+
+Tweet # 16 -"Where has the year gone? Tweet 9."
+
+
+Tweet # 17 -"Two more weeks until my first Half Marathon! Tweet 8."
+
+
+Tweet # 18 -"Go Dodgers! Tweet 7.\n\n#IDontFollowBaseball"
+
+
+Tweet # 19 -"This is a lot. Tweet 6."
+
+
+Tweet # 20 -"Tweet 5!"
+
+
+My most recent Tweets
+Tweet # 1 -"Here's another one."
+
+
+My most recent Tweets
+Tweet # 2 -"Just in case."
+
+
+My most recent Tweets
+Tweet # 3 -"OK LAST ONE FOR NOW.\n\nTweet 21."
+
+
+My most recent Tweets
+Tweet # 4 -"Two more.\n\nTweet 20."
+
+
+My most recent Tweets
+Tweet # 5 -"I don't like the acronym POTUS. It does not sound intelligent.\n\nTweet 19."
+
+
+My most recent Tweets
+Tweet # 6 -"Is this what our POTUS does all day?\nTweet 18."
+
+
+My most recent Tweets
+Tweet # 7 -"This feels like a game.\n\nTweet 17."
+
+
+My most recent Tweets
+Tweet # 8 -"Celebration.\n\nTweet 16."
+
+
+My most recent Tweets
+Tweet # 9 -"Food.\n\nTweet 15."
+
+
+My most recent Tweets
+Tweet # 10 -"I think it's punny. \n\nTweet 14."
+
+
+My most recent Tweets
+Tweet # 11 -"What do you think of my screen name?\n\nTweet 13."
+
+
+My most recent Tweets
+Tweet # 12 -"Goodbye, heatwave.\n\nTweet 12."
+
+
+My most recent Tweets
+Tweet # 13 -"Being forced to articulate my thoughts in 140 characters is a challenge.\n\nTweet 11."
+
+
+My most recent Tweets
+Tweet # 14 -"What should I eat for lunch?\n\nTweet 10."
+
+
+My most recent Tweets
+Tweet # 15 -"This is the most I have tweeted. Ever. Tweet 10"
+
+
+My most recent Tweets
+Tweet # 16 -"Where has the year gone? Tweet 9."
+
+
+My most recent Tweets
+Tweet # 17 -"Two more weeks until my first Half Marathon! Tweet 8."
+
+
+My most recent Tweets
+Tweet # 18 -"Go Dodgers! Tweet 7.\n\n#IDontFollowBaseball"
+
+
+My most recent Tweets
+Tweet # 19 -"This is a lot. Tweet 6."
+
+
+My most recent Tweets
+Tweet # 20 -"Tweet 5!"
+
